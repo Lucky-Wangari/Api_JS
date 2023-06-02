@@ -1,0 +1,224 @@
+nav{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 0 30px 0 400px; */
+}
+nav > div > a{
+    color: white;
+    text-decoration: none;
+    margin-right: 3rem;
+    padding: 0 30px 0 10px;
+}
+.second{
+    width: 100%;
+    display: flex;
+}
+.text{
+    width: 50%;
+}
+.third{
+    /* border: solid 1px green; */
+    display: flex;
+    width: 100%;
+    background: linear-gradient(rgb(246, 151, 246), rgb(236, 116, 136));
+    height: 400px;
+}
+.words{
+    /* border: solid 1px blue; */
+    width: 50%;
+    height: 300px;
+    margin-left: 10%;
+}
+.image{
+    /* border: 2px solid yellow; */
+    margin-right: 30%;
+  
+}
+.image img{
+    width: 150%;
+    height: 100%;
+    
+}
+.fourth{
+    background-color: rgb(243, 241, 241);
+    width: 100%;
+    padding: 20px 0 20px 0;
+}
+.last{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background-color: rgb(62, 61, 61);
+    color: white;
+    padding: 50px 0 50px 0;
+}
+#gadget{
+    color: yellow;
+}
+.seclast{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 0 60px 0;
+    background-color: rgb(251, 251, 251);
+}
+#email{
+    padding: 20px ;
+    background-color: yellow;
+    margin-top: 10%;
+    
+}
+.letter{
+    font-size: larger;
+}
+.final{
+    padding: 40px 0 40px 0;
+    width: 100%;
+    display: flex;
+    /* justify-content: space-around; */
+    /* border: 2px solid green; */
+    
+}
+.turbo{
+    width: 50%;
+    /* border: 2px blue solid; */
+    padding-left: 100px;
+}
+.man{
+    width: 100%;
+    /* border: 2px black solid ; */
+    margin-left: 20%;
+    border-radius: 20px;
+    height: 300px;
+    
+}
+.paragraph{
+    font-size: 20px;  
+}
+.cameron{
+    margin-top: 15%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.test{
+    text-align: center;
+    font-size: 20px;
+}
+.remote1{
+    display: flex;
+    grid-template-columns: repeat(2, 1fr);
+    background: linear-gradient(to bottom, purple, pink);
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+}
+.smart{
+    
+     
+}
+#order{
+    width: 30%;
+    height: 15%;
+    background-color: yellow;
+    border: none;
+}
+#explore{
+    width: 30%;
+    height: 15%;
+    border: solid 1px;
+    background: transparent;
+    
+}
+#products{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+#products img{
+    width: 50%;
+}
+#product div{
+    border: solid 1px black;
+}
+.pads{
+    width: 80%;
+    
+}
+.next{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.pad{
+    width: 50%;
+     /* border: solid yellow 2px; */
+} 
+#discount{
+    color: yellow;
+}
+.pro{
+    width: 30%;
+}
+.main-2{
+    display: flex;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 6%;
+    justify-content: space-between;
+}
+.headphones{
+     width: 48%;
+     height: 90%;   
+}
+.dolor{
+    /* width: 30%; */
+    border: 2px solid red;
+   
+}
+.phone{
+    width: 30%;
+   
+}
+.device{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    height:   170px;
+}
+.game{
+    width: 20%;
+    /* border: 2px solid violet; */
+}
+#icon{
+  margin-left: 20%;
+  
+}
+.your{
+    font-size: 50px;
+    font-weight: bolder;
+}
+#products button{
+    background-color: yellow;
+    width: 40%;
+    height: 15%;
+    border: none;
+}
+#products image{
+    border: 1px solid black;
+}
+#deal{
+  font-size: 20px;
+  font-weight: bold;
+} 
+#hours{
+    border: solid 1px black;
+    background-color: black;
+    color: yellow;
+    font-weight: normal;
+}
+#view{
+    width: 50%;
+}
+
+
